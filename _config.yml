@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Qiming Chen"
 title_separator          : "-"
 name                     : &name "Qiming Chen"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Hangzhou, Zhejiang, CHINA"
   employer         : "Zhejiang University"
   uri              : # URL
-  email            : "12222088@" 
+  email            : "12222088@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
